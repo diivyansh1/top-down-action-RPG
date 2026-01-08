@@ -1,0 +1,34 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "6386f94d-0cd9-47ef-a50a-f3b32ad1948e",
+            "actions": [
+                {
+                    "name": "Slash",
+                    "type": "Button",
+                    "id": "1e22eb1b-c971-4ad7-9cef-6a0d81ba70a4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "50149828-4a46-457f-9f25-a04c2e672dbb",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Slash",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
